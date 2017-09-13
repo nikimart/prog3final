@@ -1,1 +1,5 @@
-console.log("Test")
+console.log("Test");
+
+var x = 5; 
+
+console.log(x);
