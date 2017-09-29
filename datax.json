@@ -1,0 +1,304 @@
+{
+  "articles": [
+    {
+      "title": "The Shawshank Redemption",
+      "rating": "9.3",
+      "year": "(1994)",
+      "ranking": "1."
+    },
+    {
+      "title": "The Godfather",
+      "rating": "9.2",
+      "year": "(1972)",
+      "ranking": "2."
+    },
+    {
+      "title": "The Dark Knight",
+      "rating": "9",
+      "year": "(2008)",
+      "ranking": "3."
+    },
+    {
+      "title": "The Godfather: Part II",
+      "rating": "9",
+      "year": "(1974)",
+      "ranking": "4."
+    },
+    {
+      "title": "Pulp Fiction",
+      "rating": "8.9",
+      "year": "(1994)",
+      "ranking": "5."
+    },
+    {
+      "title": "Schindler's List",
+      "rating": "8.9",
+      "year": "(1993)",
+      "ranking": "6."
+    },
+    {
+      "title": "Il buono, il brutto, il cattivo",
+      "rating": "8.9",
+      "year": "(1966)",
+      "ranking": "7."
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "rating": "8.9",
+      "year": "(2003)",
+      "ranking": "8."
+    },
+    {
+      "title": "12 Angry Men",
+      "rating": "8.9",
+      "year": "(1957)",
+      "ranking": "9."
+    },
+    {
+      "title": "Inception",
+      "rating": "8.8",
+      "year": "(2010)",
+      "ranking": "10."
+    },
+    {
+      "title": "Forrest Gump",
+      "rating": "8.8",
+      "year": "(1994)",
+      "ranking": "11."
+    },
+    {
+      "title": "Fight Club",
+      "rating": "8.8",
+      "year": "(1999)",
+      "ranking": "12."
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "rating": "8.8",
+      "year": "(2001)",
+      "ranking": "13."
+    },
+    {
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "rating": "8.8",
+      "year": "(1980)",
+      "ranking": "14."
+    },
+    {
+      "title": "Goodfellas",
+      "rating": "8.7",
+      "year": "(1990)",
+      "ranking": "15."
+    },
+    {
+      "title": "The Matrix",
+      "rating": "8.7",
+      "year": "(1999)",
+      "ranking": "16."
+    },
+    {
+      "title": "Dangal",
+      "rating": "8.7",
+      "year": "(2016)",
+      "ranking": "17."
+    },
+    {
+      "title": "Star Wars",
+      "rating": "8.7",
+      "year": "(1977)",
+      "ranking": "18."
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "rating": "8.7",
+      "year": "(1975)",
+      "ranking": "19."
+    },
+    {
+      "title": "Cidade de Deus",
+      "rating": "8.7",
+      "year": "(2002)",
+      "ranking": "20."
+    },
+    {
+      "title": "The Lord of the Rings: The Two Towers",
+      "rating": "8.7",
+      "year": "(2002)",
+      "ranking": "21."
+    },
+    {
+      "title": "Shichinin no samurai",
+      "rating": "8.7",
+      "year": "(1954)",
+      "ranking": "22."
+    },
+    {
+      "title": "Interstellar",
+      "rating": "8.6",
+      "year": "(2014)",
+      "ranking": "23."
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "rating": "8.6",
+      "year": "(1991)",
+      "ranking": "24."
+    },
+    {
+      "title": "Léon",
+      "rating": "8.6",
+      "year": "(1994)",
+      "ranking": "25."
+    },
+    {
+      "title": "Se7en",
+      "rating": "8.6",
+      "year": "(1995)",
+      "ranking": "26."
+    },
+    {
+      "title": "Saving Private Ryan",
+      "rating": "8.6",
+      "year": "(1998)",
+      "ranking": "27."
+    },
+    {
+      "title": "The Usual Suspects",
+      "rating": "8.6",
+      "year": "(1995)",
+      "ranking": "28."
+    },
+    {
+      "title": "Sen to Chihiro no kamikakushi",
+      "rating": "8.6",
+      "year": "(2001)",
+      "ranking": "29."
+    },
+    {
+      "title": "The Intouchables",
+      "rating": "8.6",
+      "year": "(2011)",
+      "ranking": "30."
+    },
+    {
+      "title": "La vita è bella",
+      "rating": "8.6",
+      "year": "(1997)",
+      "ranking": "31."
+    },
+    {
+      "title": "Once Upon a Time in the West",
+      "rating": "8.6",
+      "year": "(1968)",
+      "ranking": "32."
+    },
+    {
+      "title": "It's a Wonderful Life",
+      "rating": "8.6",
+      "year": "(1946)",
+      "ranking": "33."
+    },
+    {
+      "title": "City Lights",
+      "rating": "8.6",
+      "year": "(1931)",
+      "ranking": "34."
+    },
+    {
+      "title": "Alien",
+      "rating": "8.5",
+      "year": "(1979)",
+      "ranking": "35."
+    },
+    {
+      "title": "The Green Mile",
+      "rating": "8.5",
+      "year": "(1999)",
+      "ranking": "36."
+    },
+    {
+      "title": "The Prestige",
+      "rating": "8.5",
+      "year": "(2006)",
+      "ranking": "37."
+    },
+    {
+      "title": "The Departed",
+      "rating": "8.5",
+      "year": "(2006)",
+      "ranking": "38."
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "rating": "8.5",
+      "year": "(1991)",
+      "ranking": "39."
+    },
+    {
+      "title": "Whiplash",
+      "rating": "8.5",
+      "year": "(2014)",
+      "ranking": "40."
+    },
+    {
+      "title": "Apocalypse Now",
+      "rating": "8.5",
+      "year": "(1979)",
+      "ranking": "41."
+    },
+    {
+      "title": "The Lion King",
+      "rating": "8.5",
+      "year": "(1994)",
+      "ranking": "42."
+    },
+    {
+      "title": "Back to the Future",
+      "rating": "8.5",
+      "year": "(1985)",
+      "ranking": "43."
+    },
+    {
+      "title": "Kimi no na wa.",
+      "rating": "8.5",
+      "year": "(2016)",
+      "ranking": "44."
+    },
+    {
+      "title": "Memento",
+      "rating": "8.5",
+      "year": "(2000)",
+      "ranking": "45."
+    },
+    {
+      "title": "Gladiator",
+      "rating": "8.5",
+      "year": "(2000)",
+      "ranking": "46."
+    },
+    {
+      "title": "American History X",
+      "rating": "8.5",
+      "year": "(1998)",
+      "ranking": "47."
+    },
+    {
+      "title": "Psycho",
+      "rating": "8.5",
+      "year": "(1960)",
+      "ranking": "48."
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "rating": "8.5",
+      "year": "(1981)",
+      "ranking": "49."
+    },
+    {
+      "title": "The Pianist",
+      "rating": "8.5",
+      "year": "(2002)",
+      "ranking": "50."
+    }
+  ]
+}
